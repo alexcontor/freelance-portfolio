@@ -1,91 +1,91 @@
 [
   {
-    "project_id" : "telefonica",
-    "project_name" : "Telefonica",
+    "id" : "telefonica",
+    "name" : "Telefonica",
     "description" : "Role: Tech Lead & Solutions Architect. Led technical teams and designed scalable solutions for various internal projects, ensuring high performance and alignment with business goals. Focused on architecture strategy, system optimization, and innovative problem-solving.",
     "url" : "https://www.telefonica.es/es/",
     "hex_color" : "#5f95ed"
   },
   {
-    "project_id" : "aena",
-    "project_name" : "Aena",
+    "id" : "aena",
+    "name" : "Aena",
     "description" : "Role: Backend Developer & Tech Lead. Led backend development and technical teams for airport store digitalization and parking valet management systems, delivering efficient and scalable solutions.",
     "url" : "https://www.aena.es/es/valencia.html",
     "hex_color" : "#70ba45"
   },
   {
-    "project_id" : "tous",
-    "project_name" : "Tous",
+    "id" : "tous",
+    "name" : "Tous",
     "description" : "Role: Backend Developer. Developed and maintained backend services and APIs to support seamless integration and efficient operations across TOUS’s digital platforms.",
     "url" : "https://www.tous.com/es-es/",
     "hex_color" : "#c9c9c9"
   },
   {
-    "project_id" : "carolina-herrera",
-    "project_name" : "Carolina Herrera",
+    "id" : "carolina-herrera",
+    "name" : "Carolina Herrera",
     "description" : "Role: Backend Developer. Built and managed backend services and APIs to support the brand's digital infrastructure, ensuring reliable and efficient system performance.",
     "url" : "https://www.carolinaherrera.com/es/es/",
     "hex_color" : "#f04630"
   },
   {
-    "project_id" : "real-betis",
-    "project_name" : "Real Betis",
+    "id" : "real-betis",
+    "name" : "Real Betis",
     "description" : "Role: Backend Developer. Developed and optimized backend services and APIs to support the ticketing platform, ensuring smooth and efficient user experiences.",
     "url" : "https://www.realbetisbalompie.es/entradas/",
     "hex_color" : "#2cc973"
   },
   {
-    "project_id" : "teatro-real",
-    "project_name" : "Teatro Real",
+    "id" : "teatro-real",
+    "name" : "Teatro Real",
     "description" : "Role: App Architect & Developer. Designed and developed the complete Android and iOS applications, ensuring a seamless user experience and robust performance tailored to Teatro Real’s audience.",
     "url" : "https://www.teatroreal.es/es/entradas",
     "hex_color" : "#8c1412"
   },
   {
-    "project_id" : "forum-sport",
-    "project_name" : "Forum Sport",
+    "id" : "forum-sport",
+    "name" : "Forum Sport",
     "description" : "Role: Fullstack Developer. Developed and maintained carrier integrations and back-office management systems, delivering end-to-end solutions to streamline operations and improve user experience.",
     "url" : "https://www.forumsport.com/es-es/",
     "hex_color" : "#e33532"
   },
   {
-    "project_id" : "dooers",
-    "project_name" : "Dooers",
+    "id" : "dooers",
+    "name" : "Dooers",
     "description" : "Role: Fullstack Developer. Developed fullstack solutions, including carrier integrations and back-office management systems, optimizing operations and enhancing the e-commerce platform’s performance.",
     "url" : "https://www.dooerssneakers.com/es-es/",
     "hex_color" : "#3d3b3b"
   },
   {
-    "project_id" : "seidor",
-    "project_name" : "Seidor",
+    "id" : "seidor",
+    "name" : "Seidor",
     "description" : "Role: Fullstack Developer. Developed end-to-end solutions for various internal projects, optimizing system performance across frontend and backend. Additionally, instructed several teams on Selenium automation, enhancing testing efficiency and streamlining development processes.",
     "url" : "https://www.seidor.com/",
     "hex_color" : "#4c8bb0"
   },
   {
-    "project_id" : "experience-it-solutions",
-    "project_name" : "Experience IT Solutions",
+    "id" : "experience-it-solutions",
+    "name" : "Experience IT Solutions",
     "description" : "Role: Tech Lead, Architect & SAP Commerce Cloud Instructor. Led and architected solutions for SAP Commerce Cloud projects, ensuring robust and scalable implementations. Additionally, instructed teams on best practices and technical strategies, empowering them to optimize and innovate within the SAP Commerce platform.",
     "url" : "https://www.experienceis.com/",
     "hex_color" : "#4c65b0"
   },
   {
-    "project_id" : "eurofred",
-    "project_name" : "Eurofred",
+    "id" : "eurofred",
+    "name" : "Eurofred",
     "description" : "Role: Backend Developer. Developed and maintained backend systems, ensuring seamless integration and high-performance solutions to support Eurofred’s business operations and services.",
     "url" : "https://www.eurofred.com/es/",
     "hex_color" : "#6586eb"
   },
   {
-    "project_id" : "shoprite",
-    "project_name" : "Shoprite",
+    "id" : "shoprite",
+    "name" : "Shoprite",
     "description" : "Role: Backend Developer. Developed and maintained backend services, ensuring reliable and scalable solutions to support Shoprite's e-commerce platform and optimize its operational efficiency.",
     "url" : "https://www.shoprite.co.za/",
     "hex_color" : "#c23c25"
   },
   {
-    "project_id" : "checkers",
-    "project_name" : "Checkers",
+    "id" : "checkers",
+    "name" : "Checkers",
     "description" : "Role: Backend Developer. Developed and maintained backend systems, ensuring seamless integration and high-performance solutions to support Checkers' online platform and enhance operational efficiency.",
     "url" : "https://www.checkers.co.za/",
     "hex_color" : "#2A8388"
