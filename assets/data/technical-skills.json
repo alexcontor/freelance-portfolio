@@ -1,0 +1,74 @@
+[
+  {
+    "skill_id" : "java",
+    "skill_name" : "Java",
+    "description" : "Over 7 years of experience in Java development, with expertise in Hibernate and Spring frameworks. Proficient in SOLID architectural patterns, Object-Oriented Programming (OOP), and building scalable, maintainable backend solutions. Experienced in leveraging Spring Boot and Hibernate for efficient database management and seamless application performance.",
+    "hex_color" : "#f2873a"
+  },
+  {
+    "skill_id" : "android",
+    "skill_name" : "Android",
+    "description" : "5 years of experience in Android development, successfully launching several apps with over 200k downloads. Skilled in creating intuitive, high-performance mobile applications and optimizing user experiences across a variety of devices.",
+    "hex_color" : "#77C159"
+  },
+  {
+    "skill_id" : "selenium-webdriver",
+    "skill_name" : "Selenium WebDriver & Web Scraping",
+    "description" : "5 years of experience implementing automated tests and web scraping solutions with Selenium WebDriver. Expertise in test architecture, optimizing testing frameworks, and efficiently extracting data from websites for analysis, ensuring high-quality and scalable software development.",
+    "hex_color" : "#78909C"
+  },
+  {
+    "skill_id" : "appium",
+    "skill_name" : "Appium",
+    "description" : "3 years of expertise in building and implementing automated tests for mobile devices using Appium. Skilled in developing cross-platform testing solutions, ensuring robust and reliable mobile app performance across various devices and operating systems.",
+    "hex_color" : "#65308F"
+  },
+  {
+    "skill_id" : "seo",
+    "skill_name" : "Search Engine Optimization (SEO)",
+    "description" : "4 years of experience optimizing e-commerce platforms to improve search engine rankings, drive organic traffic, and enhance user engagement. Expertise in on-page and off-page SEO strategies, keyword research, and implementing best practices for e-commerce SEO success.",
+    "hex_color" : "#FABC05"
+  },
+  {
+    "skill_id" : "sap-commerce-cloud",
+    "skill_name" : "SAP Commerce Cloud",
+    "description" : "4 years of expertise in SAP Commerce Cloud (Hybris) backend development, specializing in HAC (Hybris Administration Console), Backoffice, and WCMS (Web Content Management System) cockpit. Skilled in creating scalable e-commerce solutions, optimizing backend processes, and enhancing user experiences through efficient content management.",
+    "hex_color" : "#1378D3"
+  },
+  {
+    "skill_id" : "swift",
+    "skill_name" : "Swift iOS",
+    "description" : "2 years of experience in Swift iOS development, with a focus on building user-friendly, high-performance apps. Successfully launched Prokedex, a popular app with positive user feedback and strong engagement.",
+    "hex_color" : "#FC6326"
+  },
+  {
+    "skill_id" : "mysql",
+    "skill_name" : "Mysql",
+    "description" : "3 years of experience working with MySQL relational databases, specializing in database design, optimization, and query performance. Skilled in ensuring data integrity, efficient data retrieval, and managing large-scale database systems for high-performance applications.",
+    "hex_color" : "#00758F"
+  },
+  {
+    "skill_id" : "spring-framework",
+    "skill_name" : "Spring Framework",
+    "description" : "6 years of experience with the Java Spring Framework, specializing in building scalable, secure, and high-performance backend applications. Expertise in Spring Boot, Spring MVC, and integrating various Spring modules to create robust enterprise-level solutions.",
+    "hex_color" : "#6CB445"
+  },
+  {
+    "skill_id" : "html",
+    "skill_name" : "HTML",
+    "description" : "6 years of experience in HTML, creating clean, semantic, and accessible web pages. Skilled in structuring content, ensuring cross-browser compatibility, and optimizing web layouts for responsive design.",
+    "hex_color" : "#F16529"
+  },
+  {
+    "skill_id" : "css",
+    "skill_name" : "CSS",
+    "description" : "3 years of experience with CSS, specializing in creating visually appealing, responsive, and user-friendly web designs. Proficient in CSS3, animations, and layout techniques like Flexbox and Grid for modern web development.",
+    "hex_color" : "#379AD6"
+  },
+  {
+    "skill_id" : "javascript",
+    "skill_name" : "Javascript",
+    "description" : "3 years of experience in JavaScript, focusing on building dynamic, interactive web applications. Proficient in ES6+, DOM manipulation, and integrating with frontend frameworks to enhance user experiences and functionality.",
+    "hex_color" : "#FFDF00"
+  }
+]
