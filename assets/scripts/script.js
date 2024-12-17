@@ -51,15 +51,19 @@ fetch(assetsDataURL + '/technical-skills.json')
         const alteredColor = lightenHex(skill.hex_color);
         const imagePath = `assets/icons/technical-skills/${skill.id}.png`;
 
+        // Create the card container
         const skillCard = document.createElement('div');
-        skillCard.classList.add('grid-item');
-        skillCard.style.backgroundColor = alteredColor;
-        //skillCard.style.borderColor = skill.hex_color;
+        skillCard.classList.add('skill-card');
 
+        // Card inner HTML with header and content
         skillCard.innerHTML = `
-            <img src="${imagePath}" alt="${skill.card_title}">
-            <h3>${skill.card_title}</h3>
-          `;
+                <div class="skill-card-header" style="background-color: ${alteredColor};">
+                    <img src="${imagePath}" alt="${skill.card_title}">
+                </div>
+                <div class="skill-card-content">
+                    <h3>${skill.card_title}</h3>
+                </div>
+            `;
 
         // Add event listener for modal popup
         skillCard.addEventListener('click', () => {
@@ -80,16 +84,19 @@ fetch(assetsDataURL + '/projects.json')
         const alteredColor = lightenHex(project.hex_color);
         const imagePath = `assets/icons/projects/${project.id}.png`;
 
-        // Create project card dynamically
+        // Create project card container
         const projectCard = document.createElement('div');
-        projectCard.classList.add('grid-item');
-        projectCard.style.backgroundColor = alteredColor;
-        //projectCard.style.borderColor = project.hex_color;
+        projectCard.classList.add('project-card');
 
+        // Card inner HTML with header and content
         projectCard.innerHTML = `
-          <img src="${imagePath}" alt="${project.card_title}">
-          <h3>${project.card_title}</h3>
-        `;
+                <div class="project-card-header" style="background-color: ${alteredColor};">
+                    <img src="${imagePath}" alt="${project.card_title}">
+                </div>
+                <div class="project-card-content">
+                    <h3>${project.card_title}</h3>
+                </div>
+            `;
 
         // Add event listener for modal popup
         projectCard.addEventListener('click', () => {
