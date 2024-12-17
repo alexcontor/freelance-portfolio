@@ -1,12 +1,5 @@
 [
   {
-    "id" : "jose-gabriel-vazquez-gil",
-    "header" : "José Gabriel Vázquez Gil",
-    "subhead" : "Programming Analyst at Minsait",
-    "description" : "Después de haber trabajado bajo su supervisión a lo largo de este camino, puedo afirmar sin duda que Alex es un profesional responsable y trabajador. Es una persona proactiva que sabe administrar y gestionar notablemente sus deberes, afrontando sin miedo los retos que se le plantean, aportando soluciones y consiguiendo lo que se propone, y se preocupa 100% por asegurar que los proyectos alcancen un estándar de calidad superiores usando las ultimas tendencias, arquitectura de código sólidas y seguras y buenas prácticas.\n\nTrabajar a su cargo ha afectado en mi de forma profesional, ya que se asegura de que aprendamos sin presiones, premia el trabajo en equipo e inspira seguridad y liderazgo.",
-    "extra_info" : ""
-  },
-  {
     "id" : "fernando-castano-torres",
     "header" : "Fernando Castaño Torres",
     "subhead" : "Project Leader at Telefónica",
@@ -25,6 +18,13 @@
     "header" : "Marcos Nieto Hernández",
     "subhead" : "QA Automation Engineer (Java/Selenium Web Driver/Appium)",
     "description" : "Como QA engineer que ha tenido el privilegio de trabajar con Alex, puedo decir de primera mano que es el mejor arquitecto de automatización con el que he colaborado. Tanto su habilidad técnica, visión estratégica y enfoque en soluciones escalables son excepcionales. También mencionar su disposición para compartir conocimientos y su actitud colaborativa, ambas han sido claves en mi crecimiento profesional. He podido aprender mucho en nuestra colaboración, ya que tiene una capacidad de liderazgo que no muchos poseen, y sabe utilizar de manera muy eficiente los recursos que tiene.\n\nRecomiendo a Alex sin reservas; es un profesional de altísimo nivel que aporta un valor inmenso a cualquier equipo.",
+    "extra_info" : ""
+  },
+  {
+    "id" : "jose-gabriel-vazquez-gil",
+    "header" : "José Gabriel Vázquez Gil",
+    "subhead" : "Programming Analyst at Minsait",
+    "description" : "Después de haber trabajado bajo su supervisión a lo largo de este camino, puedo afirmar sin duda que Alex es un profesional responsable y trabajador. Es una persona proactiva que sabe administrar y gestionar notablemente sus deberes, afrontando sin miedo los retos que se le plantean, aportando soluciones y consiguiendo lo que se propone, y se preocupa 100% por asegurar que los proyectos alcancen un estándar de calidad superiores usando las ultimas tendencias, arquitectura de código sólidas y seguras y buenas prácticas.\n\nTrabajar a su cargo ha afectado en mi de forma profesional, ya que se asegura de que aprendamos sin presiones, premia el trabajo en equipo e inspira seguridad y liderazgo.",
     "extra_info" : ""
   }
 ]

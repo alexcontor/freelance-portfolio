@@ -1,0 +1,30 @@
+/* General Styling */
+
+/* Add underline to active navbar link */
+.navbar-nav .nav-item .nav-link.active {
+    border-bottom: 2px solid #007bff; /* You can change #007bff to any color you want */
+    padding-bottom: 5px; /* Optional: Add padding to prevent the underline from touching the text */
+}
+
+body {
+    background-color: #e0e0e0
+    color: #121212;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Section Styling */
+section {
+    padding: 60px 20px; /* Add padding to make sections more spacious */
+}
+
+/* Even and Odd Section Background Colors */
+section:nth-child(even) {
+    background-color: #ffffff; /* Dark background for even sections */
+}
+
+section:nth-child(odd) {
+    background-color: #f8f8f8; /* Slightly lighter dark background for odd sections */
+}
+

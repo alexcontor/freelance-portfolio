@@ -1,0 +1,85 @@
+/* Testimonials Section */
+#testimonials {
+    background-color: #f9f9f9; /* Light background */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+/* Carousel item styling */
+.carousel-item {
+    width: 65%;                  /* Set the width to 30% */
+    position: relative;
+    padding: 20px;
+    background-color: #ffffff;   /* White background for each item */
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.1s ease-in-out;
+    margin: 0 10px;              /* Optional: add some space between items */
+}
+
+.carousel-inner {
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center;     /* Center items vertically */
+}
+
+.carousel-item .carousel-caption h5 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.carousel-item .carousel-caption p {
+    font-size: 1.2rem;
+    color: #ddd; /* Lighter color for subhead */
+}
+
+/* Testimonial description below the image */
+.testimonial-content {
+    margin-top: 15px;
+    font-size: 1.1rem;
+    color: #555;
+    font-style: italic;
+}
+
+/* Carousel navigation controls */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #333; /* Dark control icons */
+}
+
+.carousel-control-prev, .carousel-control-next {
+    z-index: 1;
+}
+
+/* Hover effect on carousel items */
+.carousel-item:hover {
+    transform: translateY(-10px); /* Subtle lift effect */
+}
+
+/* Make carousel responsive */
+@media (max-width: 768px) {
+    #testimonials h2 {
+        font-size: 2rem;
+    }
+
+    .carousel-item {
+        width:90%;
+        padding: 20px;
+    }
+
+    .carousel-item .carousel-caption h5 {
+        font-size: 1.25rem;
+    }
+
+    .carousel-item .carousel-caption p {
+        font-size: 1rem;
+    }
+
+    .testimonial-content {
+        font-size: 1rem;
+    }
+}
+
+
+

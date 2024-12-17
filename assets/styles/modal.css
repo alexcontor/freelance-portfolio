@@ -1,0 +1,101 @@
+/* Modal */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    z-index: 9999; /* Higher z-index to ensure modal content is above overlay */
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+/* Modal content box */
+.modal-content {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+    margin: 30px;
+    overflow: hidden;
+    width: 60%; /* Desktop: modal takes up 35% of the screen width */
+    max-width: 600px;
+}
+
+/* Close button */
+.modal-close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* Modal details */
+.modal-details {
+    text-align: center;
+    padding: 10px;
+}
+
+/* Modal image */
+.modal-image {
+    max-width: 160px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Header styles */
+.modal-header {
+    text-align:center;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+/* Subheading styles */
+.modal-subhead {
+    font-size: 1em;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+/* Description paragraph */
+.modal-description {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-weight: 800;
+}
+
+/* Extra info section */
+.modal-extra-info {
+    font-size: 1em;
+    margin-top: 15px;
+}
+
+/* For mobile responsiveness */
+@media (max-width: 600px) {
+    .modal-content {
+        width: 90%;
+        height: 90%;
+        margin: 10px;
+        padding: 20px;
+    }
+
+    .modal-header {
+        font-size: 1em;
+    }
+
+    .modal-subhead {
+        font-size: 1em;
+    }
+
+    .modal-description {
+        font-size: 1em;
+    }
+}
