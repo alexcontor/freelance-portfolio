@@ -1,8 +1,8 @@
 /* Grid Sections */
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 15px;
     padding: 20px;
     box-sizing: border-box; /* Ensure padding is accounted for in grid layout */
 }
@@ -35,7 +35,7 @@
 
 /* Titles */
 .grid h3 {
-    font-size: 1.25rem; /* Increase font size for titles */
+    font-size: 1rem; /* Increase font size for titles */
     font-weight: 600; /* Make the title bolder */
     color: #333; /* Darker text for better contrast */
     margin-top: 0.5rem;

@@ -4,6 +4,7 @@ const projectsGrid = document.getElementById('projects-grid');
 
 const modal = document.getElementById('modal');
 const modalContent = document.getElementById('modal-content');
+const modalHeader = document.getElementById('modal-header-section');
 const modalClose = document.getElementById('modal-close');
 const modalImage = document.getElementById('modal-image');
 const modalTitle = document.getElementById('modal-header');
@@ -127,20 +128,6 @@ fetch(assetsDataURL + '/testimonials.json')
 
         carouselInner.appendChild(testimonialItem);
     });
-
-    // Adjust the heights of all carousel items to match the tallest one
-    const carouselItems = document.querySelectorAll('.carousel-item');
-    let maxHeight = 0;
-
-    // Find the tallest item
-    carouselItems.forEach(item => {
-        maxHeight = Math.max(maxHeight, item.offsetHeight);
-    });
-
-    // Set all items to the tallest height
-    carouselItems.forEach(item => {
-        item.style.height = `${maxHeight}px`;
-    });
 }).catch(err => console.error('Failed to load testimonials:', err));
 
 
@@ -148,9 +135,9 @@ fetch(assetsDataURL + '/testimonials.json')
 
 function openModal(item, imagePath) {
     const alteredColor = lightenHex(item.hex_color);
-    modalContent.style.backgroundColor = alteredColor;
+    modalHeader.style.backgroundColor = alteredColor;
     modalImage.src = imagePath;
-    modalTitle.textContent = item.subhead;
+    modalTitle.textContent = item.header;
     modalDescription.textContent = item.description;
 
     modal.style.display = 'flex';

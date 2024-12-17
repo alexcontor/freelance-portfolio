@@ -5,6 +5,10 @@
     padding-bottom: 50px;
 }
 
+#testimonials-carousel {
+    margin-top:20px;
+    margin-bottom:20px;
+}
 
 /* Carousel item styling */
 .carousel-item {
@@ -59,9 +63,6 @@
 
 /* Make carousel responsive */
 @media (max-width: 768px) {
-    #testimonials h2 {
-        font-size: 2rem;
-    }
 
     .carousel-item {
         width:90%;

@@ -118,12 +118,15 @@
                     <p>If you're looking for a versatile developer who can handle various aspects of your digital
                         strategy—whether it’s web, mobile, e-commerce, SEO, or QA automation—I’d love to help you
                         achieve your goals and bring your ideas to life.</p>
-                    <div class="text-center">
-                        <!-- Learn More Button (Dark Blue Button) -->
-                        <a class="btn btn-lg btn-dark btn-home" href="#projects">Learn More</a>
-
-                        <!-- Contact Me Button (Soft Gray Button) -->
-                        <a class="btn btn-lg btn-secondary btn-contact" href="#contact">Contact Me</a>
+                    <div class="container text-center">
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-md-auto my-3">
+                                <a class="btn btn-md btn-dark btn-home" href="#projects">Learn More</a>
+                            </div>
+                            <div class="col-12 col-md-auto my-3">
+                                <a class="btn btn-md btn-secondary btn-contact" href="#contact">Contact Me</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -174,7 +177,11 @@
     <div class="container">
         <div class="row">
             <h2 class="text-center mb-4">Testimonials</h2>
-            <div id="testimonials-carousel" class="carousel slide" data-bs-ride="carousel">
+            <hr>
+            <p>Explore the feedback from my recent clients, showcasing how my expertise has contributed to the success
+                of diverse projects. From custom web solutions to seamless mobile apps and robust backend systems, these
+                testimonials reflect my dedication to delivering high-quality, user-focused work.</p>
+            <div id="testimonials-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="16000">
                 <div class="carousel-inner">
                     <!-- Testimonials dynamically loaded here -->
                 </div>
@@ -189,6 +196,19 @@
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
+            </div>
+            <div class="container text-center">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-auto my-3">
+                        <!-- Button linking directly to LinkedIn recommendations -->
+                        <a class="btn btn-md btn-dark btn-home"
+                           href="https://www.linkedin.com/in/alex-contor-raul/details/recommendations/?detailScreenTabIndex=0"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            View all testimonials
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -205,15 +225,22 @@
         </div>
         <div class="row align-items-center">
             <div class="col-md-6">
-                <p>If you have a project you'd like to discuss, I'd love to hear from you. Feel free to send me an
-                    email, and I'll get back to you as soon as I can. I look forward to connecting with you!
+                <p>If you have a project you’d like to bring to life, I’d love to hear from you! Whether it’s building a
+                    custom website, developing a unique web application, or tackling a technical challenge, I’m here to
+                    help make your ideas a reality. I specialize in creating high-quality, scalable solutions tailored
+                    to your specific needs.
                 </p>
+                <p> Feel free to reach out via email with any details or questions about your project, and I’ll get back
+                    to you as soon as I can. I’m excited to collaborate, offer my expertise, and work together to
+                    deliver results that exceed your expectations. Let’s discuss how we can turn your vision into a
+                    fully functional, seamless product.
+                </p>
+                <p> Looking forward to connecting and starting our next project together!</p>
             </div>
             <div class="col-md-6">
                 <div class="list-group text-center">
                     <a href="https://www.linkedin.com/in/alex-contor-raul/"
-                       class="list-group-item list-group-item-action"><i
-                            class="fa fa-linkedin" aria-hidden="true"></i> Linkedin</a>
+                       class="list-group-item list-group-item-action">Linkedin</a>
                     <a href="mailto:alexcontorfreelance@gmail.com" class="list-group-item list-group-item-action"><i
                             class="fas fa-envelope-square" aria-hidden="true"></i><span class="sr-only">Email
                      address:</span> alexcontorfreelance@gmail.com</a>
@@ -225,11 +252,14 @@
 
 <div id="modal" class="modal" style="display:none">
     <div class="modal-content" id="modal-content">
-        <button id="modal-close" class="modal-close-btn"><i class="fas fa-times"></i></button>
-        <div id="modal-details" class="modal-details">
+        <button id="modal-close" class="modal-close-btn">
+            <i class="fas fa-times"></i>
+        </button>
+        <div id="modal-header-section" class="modal-header-section">
             <img src="" alt="Modal Image" id="modal-image" class="modal-image">
+        </div>
+        <div id="modal-details" class="modal-details">
             <p id="modal-header" class="modal-header"></p>
-            <p id="modal-subhead" class="modal-subhead"></p>
             <p id="modal-description" class="modal-description"></p>
         </div>
     </div>
@@ -242,8 +272,8 @@
 <!-- SITE FOOTER -->
 <footer>
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-12 col-md-4">
+        <div class="row">
+            <div class="col text-center">
                 <p>© 2024 Alexandru Raul Contor</p>
             </div>
         </div>
