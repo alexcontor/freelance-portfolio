@@ -1,93 +1,122 @@
 [
   {
     "id" : "telefonica",
-    "name" : "Telefonica",
-    "description" : "Role: Tech Lead & Solutions Architect. Led technical teams and designed scalable solutions for various internal projects, ensuring high performance and alignment with business goals. Focused on architecture strategy, system optimization, and innovative problem-solving.",
+    "card_title" : "Telefonica",
+    "header" : "Telefonica",
+    "subhead" : "Telefónica IT is the technology division of Telefónica, focusing on providing cutting-edge IT solutions, infrastructure, and digital transformation services.",
+    "description" : "My role at Telefónica involved leading technical teams and designing scalable solutions for various internal projects. I ensured high performance and alignment with business goals, with a focus on architecture strategy, system optimization, and innovative problem-solving.",
+    "extra_info" : "Role: Tech Lead & Solutions Architect.",
     "url" : "https://www.telefonica.es/es/",
     "hex_color" : "#5f95ed"
   },
   {
     "id" : "aena",
-    "name" : "Aena",
-    "description" : "Role: Backend Developer & Tech Lead. Led backend development and technical teams for airport store digitalization and parking valet management systems, delivering efficient and scalable solutions.",
+    "card_title" : "Aena",
+    "header" : "Aena",
+    "subhead" : "AENA is the world's leading airport operator by passenger volume, managing a vast network of airports in Spain and internationally.",
+    "description" : "My responsibilities at AENA included leading backend development and technical teams for the digitalization of airport stores and parking valet management systems. I delivered efficient and scalable solutions tailored to operational needs.",
+    "extra_info" : "Role: Backend Developer & Tech Lead.",
     "url" : "https://www.aena.es/es/valencia.html",
     "hex_color" : "#70ba45"
   },
   {
     "id" : "tous",
-    "name" : "Tous",
-    "description" : "Role: Backend Developer. Developed and maintained backend services and APIs to support seamless integration and efficient operations across TOUS’s digital platforms.",
+    "card_title" : "Tous",
+    "header" : "Tous",
+    "subhead" : "TOUS is a globally recognized Spanish luxury brand specializing in fine jewelry, accessories, and fashion. Known for its iconic designs, including the signature bear motif, TOUS combines craftsmanship with contemporary style to create timeless pieces.",
+    "description" : "At TOUS, my role was to develop and maintain backend services and APIs, ensuring seamless integration and supporting the efficient operation of their digital platforms.",
+    "extra_info" : "Role: Backend Developer.",
     "url" : "https://www.tous.com/es-es/",
     "hex_color" : "#c9c9c9"
   },
   {
     "id" : "carolina-herrera",
-    "name" : "Carolina Herrera",
-    "description" : "Role: Backend Developer. Built and managed backend services and APIs to support the brand's digital infrastructure, ensuring reliable and efficient system performance.",
+    "card_title" : "CH",
+    "header" : "Carolina Herrera",
+    "subhead" : "Carolina Herrera is a prestigious fashion house renowned for its timeless elegance, luxury fashion, and iconic fragrances.",
+    "description" : "At Carolina Herrera, I was responsible for building and managing backend services and APIs, ensuring that the brand’s digital infrastructure operated reliably and efficiently.",
+    "extra_info" : "Role: Backend Developer.",
     "url" : "https://www.carolinaherrera.com/es/es/",
     "hex_color" : "#f04630"
   },
   {
     "id" : "real-betis",
-    "name" : "Real Betis",
-    "description" : "Role: Backend Developer. Developed and optimized backend services and APIs to support the ticketing platform, ensuring smooth and efficient user experiences.",
+    "card_title" : "Real Betis",
+    "header" : "Real Betis Balompié",
+    "subhead" : "Real Betis Balompié is a professional football club based in Seville, Spain, competing in La Liga, the top tier of Spanish football.",
+    "description" : "My role at Real Betis involved developing and optimizing backend services and APIs to support the ticketing platform, ensuring a smooth and efficient user experience for fans.",
+    "extra_info" : "Role: Backend Developer.",
     "url" : "https://www.realbetisbalompie.es/entradas/",
     "hex_color" : "#2cc973"
   },
   {
     "id" : "teatro-real",
-    "name" : "Teatro Real",
-    "description" : "Role: App Architect & Developer. Designed and developed the complete Android and iOS applications, ensuring a seamless user experience and robust performance tailored to Teatro Real’s audience.",
+    "card_title" : "Teatro Real",
+    "header" : "Teatro Real",
+    "subhead" : "Teatro Real (Royal Theatre) is a historic opera house located in Madrid, Spain, considered one of the most prestigious cultural institutions in the country.",
+    "description" : "At Teatro Real, I was responsible for designing and developing complete Android and iOS applications, ensuring an intuitive user experience and robust performance tailored to the needs of Teatro Real’s audience.",
+    "extra_info" : "Role: App Architect & Developer.",
     "url" : "https://www.teatroreal.es/es/entradas",
     "hex_color" : "#8c1412"
   },
   {
     "id" : "forum-sport",
-    "name" : "Forum Sport",
-    "description" : "Role: Fullstack Developer. Developed and maintained carrier integrations and back-office management systems, delivering end-to-end solutions to streamline operations and improve user experience.",
+    "card_title" : "Forum Sport",
+    "header" : "Forum Sport",
+    "subhead" : "Forum Sport is a Spanish sports retail company that specializes in selling sporting goods and equipment.",
+    "description" : "My responsibilities at Forum Sport included developing and maintaining carrier integrations and back-office management systems, providing end-to-end solutions that streamlined operations and enhanced the user experience.",
+    "extra_info" : "Role: Fullstack Developer.",
     "url" : "https://www.forumsport.com/es-es/",
     "hex_color" : "#e33532"
   },
   {
     "id" : "dooers",
-    "name" : "Dooers",
-    "description" : "Role: Fullstack Developer. Developed fullstack solutions, including carrier integrations and back-office management systems, optimizing operations and enhancing the e-commerce platform’s performance.",
+    "card_title" : "Dooers",
+    "header" : "Dooers",
+    "subhead" : "Dooers Sneakers is a Spanish footwear brand that blends comfort, style, and sustainability.",
+    "description" : "At Dooers, I developed fullstack solutions, including carrier integrations and back-office management systems, optimizing operational efficiency and improving the performance of the e-commerce platform.",
+    "extra_info" : "Role: Fullstack Developer.",
     "url" : "https://www.dooerssneakers.com/es-es/",
     "hex_color" : "#3d3b3b"
   },
   {
     "id" : "seidor",
-    "name" : "Seidor",
-    "description" : "Role: Fullstack Developer. Developed end-to-end solutions for various internal projects, optimizing system performance across frontend and backend. Additionally, instructed several teams on Selenium automation, enhancing testing efficiency and streamlining development processes.",
+    "card_title" : "Seidor",
+    "header" : "Seidor",
+    "subhead" : "Seidor is a global IT consulting and services company that specializes in providing digital transformation solutions for businesses. Founded in 1982 and headquartered in Spain, Seidor offers a wide range of services, including IT consulting, enterprise resource planning (ERP) implementations, cloud solutions, and software development.",
+    "description" : "At Seidor, I developed end-to-end solutions for various internal projects, optimizing system performance across both frontend and backend. I also instructed teams on Selenium automation to enhance testing efficiency and streamline development processes.",
+    "extra_info" : "Role: Fullstack Developer.",
     "url" : "https://www.seidor.com/",
     "hex_color" : "#4c8bb0"
   },
   {
     "id" : "experience-it-solutions",
-    "name" : "Experience IT Solutions",
-    "description" : "Role: Tech Lead, Architect & SAP Commerce Cloud Instructor. Led and architected solutions for SAP Commerce Cloud projects, ensuring robust and scalable implementations. Additionally, instructed teams on best practices and technical strategies, empowering them to optimize and innovate within the SAP Commerce platform.",
+    "card_title" : "Experience",
+    "header" : "Experience IT Solutions.",
+    "subhead" : "Experience IT Solutions is an IT services and consulting company that provides innovative technology solutions to businesses across various sectors. The company focuses on delivering customized IT services, including cloud computing, software development, cybersecurity, data analytics, and enterprise solutions.",
+    "description" : "At Experience IT Solutions, my role involved leading and architecting solutions for SAP Commerce Cloud projects, ensuring scalable and robust implementations. I also instructed teams on best practices and technical strategies, enabling them to optimize and innovate within the SAP Commerce platform.",
+    "extra_info" : "Role: Tech Lead, Architect & SAP Commerce Cloud Instructor.",
     "url" : "https://www.experienceis.com/",
     "hex_color" : "#4c65b0"
   },
   {
     "id" : "eurofred",
-    "name" : "Eurofred",
-    "description" : "Role: Backend Developer. Developed and maintained backend systems, ensuring seamless integration and high-performance solutions to support Eurofred’s business operations and services.",
+    "card_title" : "Eurofred",
+    "header" : "Eurofred",
+    "subhead" : "Eurofred is a leading Spanish company specializing in the distribution of HVAC (Heating, Ventilation, and Air Conditioning) systems, refrigeration equipment, and industrial climate control solutions.",
+    "description" : "At Eurofred, I developed and maintained backend systems, ensuring seamless integration and high-performance solutions to support the company’s business operations and services.",
+    "extra_info" : "Role: Backend Developer.",
     "url" : "https://www.eurofred.com/es/",
     "hex_color" : "#6586eb"
   },
   {
     "id" : "shoprite",
-    "name" : "Shoprite",
-    "description" : "Role: Backend Developer. Developed and maintained backend services, ensuring reliable and scalable solutions to support Shoprite's e-commerce platform and optimize its operational efficiency.",
+    "card_title" : "Shoprite",
+    "header" : "Shoprite ZA",
+    "subhead" : "Shoprite ZA (Shoprite South Africa) is one of the largest and most prominent retail chains in South Africa, part of the Shoprite Group, which operates across multiple African countries.",
+    "description" : "At Shoprite, my role involved developing and maintaining backend services, ensuring scalable and reliable solutions to support their e-commerce platform and optimize operational efficiency.",
+    "extra_info" : "Role: Backend Developer.",
     "url" : "https://www.shoprite.co.za/",
     "hex_color" : "#c23c25"
-  },
-  {
-    "id" : "checkers",
-    "name" : "Checkers",
-    "description" : "Role: Backend Developer. Developed and maintained backend systems, ensuring seamless integration and high-performance solutions to support Checkers' online platform and enhance operational efficiency.",
-    "url" : "https://www.checkers.co.za/",
-    "hex_color" : "#2A8388"
   }
 ]
